@@ -1,4 +1,5 @@
 package pl.pp;
+import java.sql.SQLOutput;
 import java.util.Scanner;
 public class mySecondApp {
     public static void main(String[] args) {
@@ -27,9 +28,10 @@ public class mySecondApp {
         double second = scanner.nextDouble();
 
         System.out.println("x + y = " + (first + second));
-
+        
     }
 
 }
+
 
 
