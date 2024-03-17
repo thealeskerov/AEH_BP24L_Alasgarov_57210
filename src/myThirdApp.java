@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-/*public class myThirdApp {
+*public class myThirdApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -21,7 +21,7 @@ import java.util.Scanner;
 
         scanner.close();
     }
-}*/
+}*
 
 public class myThirdApp {
     public static void main(String[] args) {
